@@ -64,10 +64,10 @@ class DATABASE_CONFIG {
 		//'datasource' => 'Database/Postgres',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'db login',
+		'login' => 'misp',
 		'port' => 3306, // MySQL & MariaDB
 		//'port' => 5432, // PostgreSQL
-		'password' => 'db password',
+		'password' => '75JB!Vav1x8*jrtX6u',
 		'database' => 'misp',
 		'prefix' => '',
 		'encoding' => 'utf8',
