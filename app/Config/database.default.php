@@ -67,7 +67,7 @@ class DATABASE_CONFIG {
 		'login' => 'misp',
 		'port' => 3306, // MySQL & MariaDB
 		//'port' => 5432, // PostgreSQL
-		'password' => '$DBPASSWORD_MISP',
+		'password' => 'db password',
 		'database' => 'misp',
 		'prefix' => '',
 		'encoding' => 'utf8',
