@@ -603,7 +603,7 @@ dd {
 #shortcutsListContainer {
     z-index: 10;
     position: absolute;
-    background-color: #1b1b1b;
+    background-color: #FDDB00;
     top: 0;
     width:100%;
 }
@@ -611,7 +611,7 @@ dd {
 #triangle {
     cursor: pointer;
     position:fixed;
-    background-color: #1b1b1b;
+    background-color: #002B86;
     width: 20px;
     height: 20px;
     bottom:30px;
@@ -623,7 +623,7 @@ dd {
     top: 0;
     width: 100%;
     position:relative;
-    color: #999999;
+    color: #002B86;
     margin: 5px 5px 0px 5px;
 }
 
@@ -665,7 +665,7 @@ dd {
 }
 
 .footerText {
-    color: #999999;
+    color: #FFFFFF;
 }
 .footerRightText {
     padding-right:20px;
